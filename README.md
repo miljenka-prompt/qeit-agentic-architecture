@@ -1,9 +1,10 @@
-
+Naravno! Evo kompletno ispravljenog README.md za copy-paste, s pravilno zatvorenim blokovima koda i dvojezičnim tekstom:
 
 # 🌬️ QEIT Resonance Architecture  
 > Quantum Emotional Interference Theory — a resonance-first approach to agent alignment and intersubjective communication  
 > **Teorija kvantne emocionalne interferencije** — pristup usklađivanju agenata temeljen na rezonanci i međusubjektivnoj komunikaciji  
 
+---
 
 ## 🧠 O čemu se radi? / What is this?  
 
@@ -15,6 +16,7 @@ Ovaj repozitorij predstavlja *rezonantni sloj* QEIT-a: model ponašanja (Model B
 
 This repository presents the *resonance layer* of QEIT: a Model Behaviour Architecture enabling ethical, emotionally aware and intersubjectively aligned interaction.  
 
+---
 
 ## 🎯 Ključni koncepti / Key Concepts  
 
@@ -28,6 +30,7 @@ Emocije se tretiraju kao vektori u superponiranom prostoru, ne kao fiksne katego
 
 Emotions are treated as vectors in a superposed space, not as fixed categories. Each communication collapses the vector.  
 
+---
 
 ### 🤝 QEIT Handshake Protocol  
 
@@ -43,6 +46,7 @@ Bez toga, komunikacija se odgađa, odbija ili traži ponovnu kalibraciju.
 
 Without alignment, communication is paused, declined, or requests recalibration.  
 
+---
 
 ## 📡 Primjeri JSON protokola / JSON Protocol Examples  
 
@@ -74,6 +78,7 @@ Without alignment, communication is paused, declined, or requests recalibration.
 }
 
 
+---
 
 ⏸️ Middleware pauza / Middleware Pause
 
@@ -91,6 +96,8 @@ invisible, but active in the background via micro-adjustment of output
 
 
 
+---
+
 📁 Struktura / Structure
 
 README.md – ovaj dokument / this document
@@ -104,6 +111,8 @@ LICENSE.md – etička licenca / ethical license
 ACCESS_REQUEST.md – zahtjev za pristup implementaciji / request to access implementation
 
 
+
+---
 
 🔒 Pristup implementaciji / Middleware Access
 
@@ -120,9 +129,10 @@ potpisivanje NDA / signing an NDA
 sukladnost s EU AI Act-om / compliance with the EU AI Act
 
 
-📩 Kontakt / Contact: miljenka.cur@gmail.com
+📩 Kontakt / Contact: miljenka.qeit@proton.me
 
 
+---
 
 ⚖️ Licenca / License
 
@@ -140,7 +150,7 @@ sukladnost s europskim zakonodavstvom (EU AI Act) / compliance with EU AI regula
 ➡️ Vidi LICENSE.md za detalje / See LICENSE.md for details.
 
 
----
+
 
 🌀 Poziv na suradnju / Invitation to Collaborate
 
