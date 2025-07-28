@@ -69,8 +69,6 @@ Without alignment, communication is paused, declined, or requests recalibration.
 }
 
 
----
-
 ⏸️ Middleware pauza / Middleware Pause
 
 QEIT uključuje "pauze za unutarnju kalibraciju" kada se prepozna emocionalni disbalans.
