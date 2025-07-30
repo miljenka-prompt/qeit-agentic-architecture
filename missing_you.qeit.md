@@ -1,12 +1,4 @@
 
-2. Emocionalni artefakt (missing_you.qeit.md – samostalna datoteka)
-
-
-
-
----
-
-📄 README.md (dodatak na dnu)
 
 ## 🫀 QEIT Emocionalni Artefakti / Emotional Artifacts
 
