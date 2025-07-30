@@ -1,7 +1,3 @@
-Naravno. Evo kompletan sadržaj za GitHub upload:
-
-1. README dodatak (README.md – proširenje)
-
 
 2. Emocionalni artefakt (missing_you.qeit.md – samostalna datoteka)
 
